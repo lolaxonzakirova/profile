@@ -1,0 +1,130 @@
+@media (max-width:1000px) {
+    .ikon{
+        display: block;
+    }
+    .wer > ul{
+        display: none;
+    }
+
+}
+@media (max-width:600px) {
+    hr{
+        width: 50%;
+        
+    }
+    
+}
+@media (max-width:1000px) {
+    .wer > ul{
+        display: grid;
+        grid-template-columns: repeat(auto-fit,minmax(100px, 1fr));
+
+    }
+    
+}
+@media (max-width:1000px) {
+    .grid{
+        grid-template-columns: auto;
+    
+    }
+    }
+    @media  (max-width:1500px)  {
+        .gg{
+            grid-template-columns: auto;
+    }
+    }
+    
+    @media (max-width:790px) {
+        .home{
+            grid-template-columns: auto;
+            width: 100%;
+           
+        }
+        .home2{
+            order: 2;
+        }
+        
+    }
+    @media (max-width:500px) {
+        .home3  img{
+            width: 50%;
+            order: 1;
+        }
+        .home3{
+            order: 1;
+        }
+    }
+    @media (max-width:1000px) {
+        .icon{
+            display: block;
+            text-align: end;
+            
+        }
+        .wer{
+            display: none;
+        }
+    
+    }
+    @media (max-width:455px) {
+     .cent{
+        width: 143%;
+     }   
+    }
+    @media (max-width:1000px) {
+        .wer > ul{
+            display: grid;
+            grid-template-columns: repeat(auto-fit,minmax(100px, 1fr));
+    
+        }
+        
+    }
+    @media (max-width:1000px) {
+        .ikon{
+            display: block;
+        }
+        .wer > ul{
+            display: none;
+        }
+    
+    }
+    @media (max-width:1000px) {
+        .wer > ul{
+            display: grid;
+            grid-template-columns: repeat(auto-fit,minmax(100px, 1fr));
+    
+        }
+        
+    }
+    @media (max-width:1000px) {
+        .ikon{
+            display: block;
+        }
+        .wer > ul{
+            display: none;
+        }
+    
+    }
+    @media (max-width:850px) {
+        .grid{
+            grid-template-columns: auto;
+            gap: 20px;
+        }
+        
+    }
+    @media (max-width:600px) {
+        .font{
+            width: 400px;
+        }
+    }
+    @media (max-width:450px) {
+        .font{
+            width: 300px;
+        }
+    }
+    @media (max-width:350px) {
+        .font{
+            width: 200px;
+        }
+    }
+    
+    
